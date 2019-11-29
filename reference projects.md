@@ -1,5 +1,7 @@
 # reference projects for detection and recognition on slides
-
+1. [A Python library for pathology image analysis algorithms.](https://github.com/DigitalSlideArchive/HistomicsTK)
+1. [Pan-Cancer Computational Histopathology](https://github.com/gerstung-lab/PC-CHiP)
+1. [DeepPATH](https://github.com/ncoudray/DeepPATH)
 1. [Rotation Equivariant CNNs for Digital Pathology](https://paperswithcode.com/paper/rotation-equivariant-cnns-for-digital)
 1. [Focus Quality Assessment of High-Throughput Whole Slide Imaging in Digital Pathology](https://paperswithcode.com/paper/focus-quality-assessment-of-high-throughput)
 1. [Pathology GAN: Learning deep representations of cancer tissue](https://paperswithcode.com/paper/pathology-gan-learning-deep-representations)
