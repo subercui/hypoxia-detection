@@ -1,5 +1,4 @@
 # reference projects for detection and recognition on slides
-1. [A Python library for pathology image analysis algorithms.](https://github.com/DigitalSlideArchive/HistomicsTK)
 1. [Pan-Cancer Computational Histopathology](https://github.com/gerstung-lab/PC-CHiP)
 1. [DeepPATH](https://github.com/ncoudray/DeepPATH)
 1. [Rotation Equivariant CNNs for Digital Pathology](https://paperswithcode.com/paper/rotation-equivariant-cnns-for-digital)
@@ -18,7 +17,7 @@
 
 
 # Whole slide platform
-
+1. This is a comrehensive platform, though mostly conventional methods[A Python library for pathology image analysis algorithms.](https://github.com/DigitalSlideArchive/HistomicsTK)
 1. [QuPath - Open Source Digital Pathology](https://github.com/qupath/qupath)
 1. [OpenSlide is a C library that provides a simple interface to read whole-slide images](https://openslide.org/)
 
