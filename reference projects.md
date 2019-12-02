@@ -5,6 +5,7 @@
 1. [Pathology GAN: Learning deep representations of cancer tissue](https://paperswithcode.com/paper/pathology-gan-learning-deep-representations)
 1. [An implementation of Unet for pytorch designed for digital pathology segmentation](https://github.com/choosehappy/PytorchDigitalPathology)
 1. **some conference's Oral paper, seems useful** [Cancer metastasis detection with neural conditional random field (NCRF)](https://github.com/baidu-research/NCRF)
+1. A PNAS paper - tensorflow - [Survival Convolutional Neural Networks](https://github.com/CancerDataScience/SCNN)
 1. [The PatchCamelyon (PCam) deep learning classification benchmark.](https://github.com/basveeling/pcam)
 1. [Program for the analysis and visualization of whole-slide images in digital pathology](https://github.com/computationalpathologygroup/ASAP)
 1. [A Python module that produces image patches and annotation masks from whole slide images for deep learning in digital pathology.](https://github.com/btcrabb/SlideSeg)
